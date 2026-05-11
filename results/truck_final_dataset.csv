@@ -1,0 +1,12 @@
+Company Names,Cars Names,Engines,CC/Battery Capacity,HorsePower,Total Speed,Performance(0 - 100 )KM/H,Cars Prices,Fuel Types,Seats,Torque,Model,Body Type,Reliability Score
+Nissan,NV200,2.0L Inline-4,1998 cc,131 HP,140 km/h,14.0 sec,28000.0,Petrol,7,188 Nm,NV200,truck,4.0
+Chevrolet,Colorado WT,2.7L Turbo Inline-4 Gasoline,2700 cc,310 hp,190 km/h,6.9 sec,29200.0,Petrol,5,583 Nm,Colorado,truck,4.0
+NISSAN,FRONTIER,V6,"3,799 cc",310 hp,180 km/h,6.8 sec,30000.0,Petrol,5,381 Nm,FRONTIER,truck,4.0
+Chevrolet,Colorado,2.7L Turbo Inline-4 Gasoline,2700 cc,310 hp,190 km/h,6.8 sec,30695.0,Petrol,5,583 Nm,Colorado,truck,4.0
+GMC,Canyon Elevation,2.5L I4 engine,"2,488 cc",200 hp,175 km/h,8.5 sec,36300.0,Petrol,5,259 Nm,Canyon,truck,4.0
+GMC,Canyon,2.7L Turbo 4-cylinder,2700 cc,310 hp,190 km/h,7.6 sec,36900.0,Petrol,5,583 Nm,Canyon,truck,4.0
+GMC,Canyon SLT,2.5L I4 engine,"2,488 cc",200 hp,175 km/h,8.6 sec,38000.0,Petrol,5,259 Nm,Canyon,truck,4.0
+Ford,Ranger (2024),I4 Turbo Diesel,"2,000 cc",210 hp,180 km/h,8.0 sec,40000.0,Diesel,5,500 Nm,Ranger,truck,4.0
+TOYOTA,TACOMA,I4,"2,694 cc",159 hp,180 km/h,9.5 sec,26400.0,Petrol,5,400 Nm,TACOMA,truck,3.5
+TOYOTA,TUNDRA,V8,"5,663 cc",381 hp,220 km/h,6.7 sec,39900.0,Petrol,5,650 Nm,TUNDRA,truck,3.5
+NISSAN,TITAN,V8,"5,598 cc",400 hp,200 km/h,5.9 sec,40000.0,Petrol,5,560 Nm,TITAN,truck,3.5

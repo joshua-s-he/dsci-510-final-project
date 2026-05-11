@@ -1,0 +1,16 @@
+Company Names,Cars Names,Engines,CC/Battery Capacity,HorsePower,Total Speed,Performance(0 - 100 )KM/H,Cars Prices,Fuel Types,Seats,Torque,Model,Body Type,Reliability Score
+TOYOTA,YARIS,I4,"1,496 cc",106 hp,180 km/h,11.2 sec,18400.0,Petrol,5,150 Nm,YARIS,passenger car,4.5
+HYUNDAI,ELANTRA,"2.0L,4-CYLINDER,INLINE-4(I4)","1,999 cc",147 hp,200 km/h,9.5 sec,18400.0,Petrol/Hybrid,5,250 Nm,ELANTRA,passenger car,4.5
+Kia,Forte FE,2.0L 4-Cylinder,1999 cc,147 hp,190 km/h,9.2 sec,18500.0,Petrol,5,179 Nm,Forte,passenger car,4.5
+Kia,Forte LXS,2.0L 4-Cylinder,1999 cc,147 hp,190 km/h,9.2 sec,19000.0,Petrol,5,179 Nm,Forte,passenger car,4.5
+HYUNDAI,Elantra,2.0L Inline-4,"2,000 cc",147 hp,210 km/h,8.3 sec,19950.0,Petrol/Hybrid,5,250 Nm,Elantra,passenger car,4.5
+HONDA,CIVIC,I4,"1,996 cc",158 hp,200 km/h,8.5 sec,20400.0,Petrol,5,400 Nm,CIVIC,passenger car,4.5
+HYUNDAI,Elantra GT,1.6L Turbo GDI 4-cylinder,"2,000 cc",160 hp,200 km/h,8.3 sec,22000.0,Petrol,5,320 Nm,Elantra,passenger car,4.5
+TOYOTA,COROLLA,I4,"1,798 cc",139 hp,180 km/h,9.4 sec,22500.0,Petrol/Hybrid,5,200 Nm,COROLLA,passenger car,4.5
+Kia,Forte EX Premium,2.0L 4-Cylinder,1999 cc,147 hp,190 km/h,9.2 sec,22500.0,Petrol,5,179 Nm,Forte,passenger car,4.5
+Kia,Forte Limited Edition,2.0L 4-Cylinder,1999 cc,147 hp,190 km/h,9.2 sec,22500.0,Petrol,5,179 Nm,Forte,passenger car,4.5
+Chevrolet,Spark Activ,1.4L Inline-4 Gasoline,1400 cc,98 hp,180 km/h,11.0 sec,17595.0,Petrol,5,127 Nm,Spark,passenger car,4.0
+NISSAN,SENTRA,I4,"1,998 cc",149 hp,200 km/h,8.2 sec,20000.0,Petrol,5,240 Nm,SENTRA,passenger car,4.0
+Volkswagen,Jetta,1.5L Turbo I4,1498 cc,150 - 228 hp,210 km/h,7.7 sec,21995.0,Petrol,5,250 Nm,Jetta,passenger car,4.0
+Volkswagen,Golf,1.5L Turbo I4 / Electric,1498 cc / 40 - 58 kWh,110 - 320 hp,210 km/h,8.5 sec,23000.0,Petrol,5,250 Nm,Golf,passenger car,4.0
+Ford,Fiesta ST,1.5L Turbo Inline-3,"1,500 cc",200 hp,230 km/h,6.5 sec,23000.0,Petrol,5,290 Nm,Fiesta,passenger car,4.0

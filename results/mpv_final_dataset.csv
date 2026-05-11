@@ -1,0 +1,40 @@
+Company Names,Cars Names,Engines,CC/Battery Capacity,HorsePower,Total Speed,Performance(0 - 100 )KM/H,Cars Prices,Fuel Types,Seats,Torque,Model,Body Type,Reliability Score
+HONDA,CR-V,I4,"1,498 cc",190 hp,186 km/h,8.2 sec,30000.0,Petrol/Hybrid,5,400 Nm,CR-V,mpv,4.5
+KIA,SPORTAGE EX,I4,"2,480 cc",187 hp,200 km/h,8.0 sec,30000.0,Petrol,5,250 Nm,SPORTAGE,mpv,4.0
+HYUNDAI,Tucson,2.5L Inline-4,"2,500 cc",187 hp,180 km/h,6.1 sec,30500.0,Petrol/Hybrid,5,400 Nm,Tucson,mpv,4.0
+Jeep,Compass,2.0L Turbo Gasoline,2000 cc,200 hp,200 km/h,7.8 sec,31590.0,Petrol,5,320 Nm,Compass,mpv,4.0
+KIA,SPORTAGE GT-LINE,I4,"2,480 cc",187 hp,200 km/h,8.0 sec,32000.0,Petrol,5,350 Nm,SPORTAGE,mpv,4.0
+Nissan,Rogue Sport SL,2.0L Inline-4,1998 cc,141 HP,190 km/h,9.0 sec,32000.0,Petrol,5,195 Nm,Rogue,mpv,4.0
+KIA,SPORTAGE X-LINE,I4,"2,480 cc",187 hp,200 km/h,8.0 sec,32500.0,Petrol,5,350 Nm,SPORTAGE,mpv,4.0
+KIA,SPORTAGE NIGHTFALL EDITION,I4,"2,480 cc",187 hp,200 km/h,8.0 sec,33000.0,Petrol,5,350 Nm,SPORTAGE,mpv,4.0
+TOYOTA,VENZA,I4,"2,494 cc",219 hp,200 km/h,7.5 sec,33400.0,Hybrid,5,400 Nm,VENZA,mpv,4.0
+Kia,Sorento LX,2.5L 4-Cylinder,2500 cc,191 hp,210 km/h,8.5 sec,35500.0,Petrol,7,246 Nm,Sorento,mpv,4.0
+KIA,SPORTAGE SX TURBO,I4,"1,998 cc",240 hp,210 km/h,6.7 sec,36000.0,Petrol,5,400 Nm,SPORTAGE,mpv,4.0
+KIA,SPORTAGE 2024(X-PRO),I4,"2,480 cc",187 hp,200 km/h,8.1 sec,36000.0,Petrol,5,400 Nm,SPORTAGE,mpv,4.0
+KIA,SPORTAGE 2024(HYBRID AWD),I4 + ELECTRIC,"1,600 cc / 1.49 kwh",227 hp,180 km/h,8.0 sec,37000.0,Hybrid,5,350 Nm,SPORTAGE,mpv,4.0
+TOYOTA,4RUNNER ,V6,"3,956 cc",270 hp,200 km/h,7.5 sec,37400.0,Petrol,5,400 Nm,4RUNNER,mpv,4.0
+Jeep,Cherokee,2.4L I4 Tigershark Gasoline,2400 cc,180 hp,195 km/h,8.5 sec,37695.0,Petrol,5,230 Nm,Cherokee,mpv,4.0
+KIA,SPORTAGE 2024(TOP TRIM),I4,"1,998 cc",240 hp,210 km/h,6.7 sec,38000.0,Petrol,5,400 Nm,SPORTAGE,mpv,4.0
+KIA,SPORTAGE 2024(X-PRO PRESTIGE),I4,"2,480 cc",187 hp,200 km/h,8.1 sec,38000.0,Petrol,5,400 Nm,SPORTAGE,mpv,4.0
+Nissan,Rogue Platinum,1.5L Turbo Inline-3,1497 cc,201 HP,180 km/h,8.2 sec,38000.0,Petrol,5,300 Nm,Rogue,mpv,4.0
+Ford,Escape Plug-in Hybrid (2024),I4 Hybrid,"2,500 cc (petrol) + Electric Motor",221 hp,190 km/h,7.5 sec,38000.0,Hybrid,5,210 Nm,Escape,mpv,4.0
+TOYOTA,HIGHLANDER,V6,"3,456 cc",295 hp,220 km/h,7.2 sec,38400.0,Petrol/Hybrid,7,370 Nm,HIGHLANDER,mpv,4.0
+Nissan,Rogue Midnight Edition,1.5L Turbo Inline-3,1497 cc,201 HP,180 km/h,8.2 sec,39000.0,Petrol,5,300 Nm,Rogue,mpv,4.0
+KIA,SPORTAGE 2024(SX TURBO AWD),I4,"1,998 cc",240 hp,210 km/h,6.5 sec,40000.0,Petrol/AWD,5,400 Nm,SPORTAGE,mpv,4.0
+GMC,Terrain SLT,1.5L Turbocharged I4 engine,"1,490 cc",170 hp,200 km/h,9.4 sec,31000.0,Petrol,5,275 Nm,Terrain,mpv,3.5
+Ford,Flex,Naturally Aspirated V6,"3,500 cc",287 hp,200 km/h,7.9 sec,31000.0,Petrol,7,345 Nm,Flex,mpv,3.5
+Chevrolet,Equinox RS,1.5L Turbo Inline-4 Gasoline,1500 cc,170 hp,200 km/h,8.8 sec,31900.0,Petrol,5,275 Nm,Equinox,mpv,3.5
+Chevrolet,Equinox Premier,1.5L Turbo Inline-4 Gasoline,1500 cc,170 hp,200 km/h,8.8 sec,33400.0,Petrol,5,275 Nm,Equinox,mpv,3.5
+NISSAN,PATHFINDER,V6,"3,498 cc",284 hp,225 km/h,6.5 sec,35000.0,Petrol,7,351 Nm,PATHFINDER,mpv,3.5
+GMC,Terrain All-Terrain Edition,1.5L Turbocharged I4 engine,"1,490 cc",170 hp,200 km/h,9.3 sec,35000.0,Petrol,5,275 Nm,Terrain,mpv,3.5
+Jeep,Wrangler,3.6L V6 Pentastar Gasoline,3600 cc,285 hp,180 km/h,6.8 sec,35195.0,Petrol,4,353 Nm,Wrangler,mpv,3.5
+GMC,Terrain AT4,1.5L Turbo 4-cylinder,1500 cc,175 hp,190 km/h,9.6 sec,36500.0,Petrol,5,275 Nm,Terrain,mpv,3.5
+GMC,Terrain Denali,1.5L Turbo 4-cylinder,1500 cc,175 hp,190 km/h,9.5 sec,38600.0,Petrol,5,275 Nm,Terrain,mpv,3.5
+AUDI,A4,I4,"1,984 cc",248 hp,240 km/h,6.5 sec,39000.0,Petrol,5,400 Nm,A4,mpv,3.5
+Nissan,Murano,3.5L V6,3498 cc,260 HP,210 km/h,7.5 sec,39000.0,Petrol,5,325 Nm,Murano,mpv,3.5
+HONDA,PILOT,V6,"3,471 cc",285 hp,209 km/h,6.3 sec,40000.0,Petrol,8,360 Nm,PILOT,mpv,3.5
+Volkswagen,Tiguan Allspace,2.0L Turbo I4,1984 cc,184 - 230 hp,215 km/h,7.6 sec,35000.0,Petrol,7,320 Nm,Tiguan,mpv,3.0
+Chevrolet,Traverse,3.6L V6 Gasoline,3600 cc,310 hp,210 km/h,7.0 sec,35915.0,Petrol,7,360 Nm,Traverse,mpv,3.0
+GMC,Acadia,2.0L Turbo 4-cylinder,2000 cc,228 hp,200 km/h,7.8 sec,36800.0,Petrol,7,350 Nm,Acadia,mpv,3.0
+Chevrolet,Traverse LT,3.6L V6 Gasoline,3600 cc,310 hp,210 km/h,7.1 sec,37200.0,Petrol,7,360 Nm,Traverse,mpv,3.0
+GMC,Acadia SLE,3.6L V6 engine,"3,564 cc",310 hp,210 km/h,6.6 sec,40000.0,Petrol,7,366 Nm,Acadia,mpv,3.0
